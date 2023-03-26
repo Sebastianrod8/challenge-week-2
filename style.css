@@ -16,6 +16,9 @@
         /* padding-right: 100px; */
         text-align: center;
     }
+    .subtitle{
+     background: url("./background.jpeg")
+    }
 
   body {
     font-family: 'Times New Roman', Times, serif;
@@ -45,4 +48,8 @@
         text-align-last: right;
 
     }
+
+    /* About me id{
+        background-color: aqua;
+    } */
 
