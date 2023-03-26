@@ -1,0 +1,49 @@
+
+:root {
+    margin: 0;
+    padding: 0;
+    text-decoration: wavy;
+    list-style:none;
+    box-sizing: border-box;
+    --outer-space: #fafbfd;}
+
+    .name-header {
+        background:gray ;
+       
+    }
+
+    h1 {
+        color: rgb(67, 4, 4);
+        /* padding-right: 100px; */
+        text-align: center;
+    }
+
+  body {
+    font-family: 'Times New Roman', Times, serif;
+  
+    font-size: 1.75rem;
+    line-height: 1.5;
+    color: var(--gin);
+    background-color: var(--outer-space);
+  }  
+  nav {
+    background-color: rgb(247, 244, 244);
+    height: 50px;
+    width: 100%;}
+
+    label.logo{
+        text-size-adjust: 100px;
+        color: aliceblue;
+        font-size: 36px;
+        line-height: 80px;
+        padding: 100;
+    }
+    nav ul li{
+        color: rgb(1, 1, 53);
+        display: inline-block;
+        margin-inline-end: 100;
+        line-height: 80px;
+        text-align-last: right;
+
+    }
+
