@@ -1,20 +1,17 @@
-
-:root {
-    margin: 0;
-    padding: 0;
-    text-decoration: wavy;
-    list-style:none;
-    box-sizing: border-box;
-    --outer-space: #fafbfd;}
-
     .name-header {
-        background:gray ;
+    background:gray ;
     }
 
     h1 {
         color: rgb(67, 4, 4);
         /* padding-right: 100px; */
         text-align: center;
+    }
+    .menubar {
+        background-color:black;
+        color: white;
+        
+
     }
     .subtitle{
      background: url("./background.jpeg")
@@ -25,8 +22,8 @@
   
     font-size: 1.75rem;
     line-height: 1.5;
-    color: var(--gin);
-    background-color: var(--outer-space);
+    color:white;
+    background-color: black;
   }  
   nav {
     background-color: rgb(247, 244, 244);
